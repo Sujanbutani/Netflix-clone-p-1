@@ -1,4 +1,4 @@
-# Project and Payment Management Backend
+# Netflix Clone
 
 This project is a backend application built using **Node.js**, **Express**, and **MongoDB**. It supports basic Netflix clone functionalities with user authentication using **JWT**.
 
